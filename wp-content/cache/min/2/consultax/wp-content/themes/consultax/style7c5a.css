@@ -227,7 +227,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-weight: 800;
     line-height: 1.2;
     margin: 0 0 20px;
@@ -442,7 +442,7 @@ a.the-title:hover {
 
 .lead {
     font-size: 16px;
-    font-family: "Montserrat", sans-serif
+    font-family: "Rubik"
 }
 
 .subtitle {
@@ -464,7 +464,7 @@ a.the-title:hover {
 }
 
 .font-second {
-    font-family: "Montserrat", sans-serif
+    font-family: "Rubik"
 }
 
 .text-dark {
@@ -615,7 +615,7 @@ a.the-title:hover {
 }
 
 .pagelink {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-weight: 800;
     font-size: 12px;
     color: #f26522;
@@ -786,7 +786,7 @@ td {
     text-transform: uppercase;
     white-space: nowrap;
     vertical-align: middle;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-weight: 600;
     text-align: center;
     background: linear-gradient(180deg, #d5d1a6, #e2deb8);
@@ -978,7 +978,7 @@ a:active {
     background: #002c60;
     border-bottom: 1px solid rgba(255, 255, 255, .2);
     color: #fff;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     padding: 10px 0 8px
 }
 
@@ -1936,7 +1936,7 @@ ul.info-list.info_on_right_side li:last-child {
 
 .breadc-box {
     color: #f26522;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-weight: 600;
     font-size: 12px;
     margin-bottom: 0;
@@ -2120,7 +2120,7 @@ ul.info-list.info_on_right_side li:last-child {
 }
 
 .content-area .inner-post .entry-meta {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-size: 12px;
     font-weight: 500;
     color: #898989;
@@ -2149,7 +2149,7 @@ ul.info-list.info_on_right_side li:last-child {
 }
 
 .content-area .inner-post .post-link {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-weight: 800;
     font-size: 12px;
     color: #f26522;
@@ -2308,7 +2308,7 @@ ul.info-list.info_on_right_side li:last-child {
 }
 
 .comments-area .comment-item .comment-reply a {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     padding: 5px 13px;
     font-size: 12px;
     font-weight: 700;
@@ -2552,7 +2552,7 @@ ul.info-list.info_on_right_side li:last-child {
 }
 
 .recent-news .entry-date {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-size: 12px;
     font-weight: 500;
     color: #898989
@@ -2812,7 +2812,7 @@ object {
 }
 
 .ot-socials span {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     display: inline-block;
     font-weight: 800;
     color: #737373;
@@ -3120,7 +3120,7 @@ a .service-box {
 }
 
 .menu-service .list-service a {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     display: block;
     padding: 19px 40px;
     color: #fff;
@@ -3482,7 +3482,7 @@ a .service-box {
 }
 
 .project-with-nav {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-size: 12px
 }
 
@@ -3655,7 +3655,7 @@ a .service-box {
 .testi-item .testi-content {
     padding: 40px 30px 35px;
     position: relative;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-size: 16px
 }
 
@@ -3728,7 +3728,7 @@ a .service-box {
 .testi-item-2 {
     margin: 0 15px;
     overflow: hidden;
-    font-family: "Montserrat", sans-serif
+    font-family: "Rubik"
 }
 
 .testi-item-2>img {
@@ -4292,7 +4292,7 @@ a .service-box {
 }
 
 .contact-info i {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Rubik";
     font-weight: 800;
     font-style: normal;
     font-size: 20px
