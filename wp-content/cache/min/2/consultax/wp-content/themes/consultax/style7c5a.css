@@ -787,7 +787,7 @@ td {
     white-space: nowrap;
     vertical-align: middle;
     font-family: "Rubik";
-    font-weight: 600;
+    font-weight: 500;
     text-align: center;
     background: linear-gradient(180deg, #d5d1a6, #e2deb8);
     cursor: pointer;
@@ -4943,13 +4943,11 @@ div.vc_line-chart .vc_chart-legend li {
 #homesec2 p {
     margin-bottom: 16px;
     font-size: 20px;
-    color: #000;
-    font-weight: 600;
+    color: #4e4c2f;
 }
 
 .main-header {
     background: linear-gradient(180deg, #d2cfa8, #9d9866);
-    /* background: linear-gradient(90deg, #b39347 22%, #e2d7a2 50%, #b39347 86%); */
     padding: 12px 0px;
 }
 
@@ -5070,7 +5068,7 @@ h2 {
 
 #homesec1 h3 {
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 #homesec1 p {
@@ -5126,7 +5124,6 @@ h2 {
 
 #homesec6 p {
     font-size: 20px;
-    font-weight: 600;
 }
 
 #homesec6 img {
