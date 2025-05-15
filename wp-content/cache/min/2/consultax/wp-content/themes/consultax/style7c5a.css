@@ -5055,6 +5055,7 @@ h2 {
 #form h2 {
     color: #696642;
     text-align: center;
+    font-size: 30px;
 }
 
 #arrow {
@@ -5073,6 +5074,10 @@ h2 {
 
 #homesec1 p {
     font-size: 16px;
+}
+
+#homesec1 .mobile-white {
+    padding-left: 6%;
 }
 
 #wave {
@@ -5181,6 +5186,7 @@ h2 {
     }
     #homesec1 .vc_col-md-6 {
         width: 50%;
+        padding-left: 0%;
     }
 }
 
@@ -5255,5 +5261,8 @@ h2 {
     .main-footer .col-md-3,
     .main-footer .col-md-4 {
         padding-top: 0px;
+    }
+    #homesec1 .vc_col-md-6 {
+        padding-left: 0%;
     }
 }
