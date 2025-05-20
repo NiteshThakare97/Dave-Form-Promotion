@@ -3593,7 +3593,7 @@ src="https://www.facebook.com/tr?id=558898490306502&ev=PageView&noscript=1"
                                                 <textarea name="message" required></textarea> -->
                                                 <input class="form-fields" type="checkbox" name="botcheck" class="hidden" style="display: none;">
 
-                                                <button class="btn" type="submit">Request a Callback</button>
+                                                <button class="btn" type="submit" id="submitButton">Request a Callback</button>
 
                                                 <div id="result" style="color: red;"></div>
 
@@ -3639,6 +3639,14 @@ src="https://www.facebook.com/tr?id=558898490306502&ev=PageView&noscript=1"
                                                         });
                                                 });
                                             </script>
+
+                                            <!-- Script tag for Lead generation starts -->
+                                            <script type="text/javascript">
+                                                document.getElementById('submitButton').addEventListener('click', function() {
+                                                    fbq('track', 'Lead');
+                                                }, false);
+                                            </script>
+                                            <!-- Script tag for Lead generation ends -->
                                         </div>
 
 
